@@ -1,0 +1,7 @@
+Google-Docs-Sync Linux
+Google-Docs-Sync Octave
+#... other files
+
+git add . # stage all files to be committed
+git commit -m "Auto-pushed on `date`"
+git push origin master

@@ -1,0 +1,3 @@
+The DownloadAndPush script downloads specified files from my Google Docs and pushes them to this github repository.
+This is done periodically (daily) from a machine with access to Google Docs so that the information in the documents is
+accessible from a machine without access to Google Docs.
